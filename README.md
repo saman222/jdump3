@@ -1,4 +1,4 @@
-J!Dump README
+J!Dump README (This is unofficial version of JDUMP compatible with JOOMLA 3.9/3.10 and maybe earlier) this read me file is deprecated. if you have any question ask in the Issues
 =============
 
 Advanced print_r and var_dump replacer with object tree display.
